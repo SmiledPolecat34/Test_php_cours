@@ -1,0 +1,8 @@
+/.phpunit.result.cache
+/composer.json
+/composer.lock
+/node_modules
+/package-lock.json
+/package.json
+/php_errors.log
+/vendor
