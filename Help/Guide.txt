@@ -1,0 +1,3 @@
+Il faut taper les commandes suivantes avant tout commencement :
+
+npm init -y ; npm i ; composer require --dev phpunit/phpunit ; npm i vendor phpunit 
